@@ -1,2 +1,2 @@
-# .github
-Welcome to Aximpro Labs. A PartnerValue Company
+# Welcome to Aximpro Labs. 
+A PartnerValue Company
